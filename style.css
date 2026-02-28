@@ -1,0 +1,94 @@
+body {
+  margin: 0 auto;
+}
+main {
+  background-color: rgba(222, 211, 224, 0.635);
+  width: 500px;
+  height: 600px;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+.pirma {
+  margin: 0 auto;
+  width: 300px;
+  height: 100px;
+  background-color: rgba(91, 91, 220, 0.846);
+  border-radius: 20px 20px 0px 0px;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  margin: 40px 20px -50px 100px;
+  border: 4px solid rgba(91, 91, 220, 0.846);
+  border-radius: 50px;
+  box-shadow: 3px 3px 10px rgba(91, 91, 220, 0.846);
+}
+
+.vidurine {
+  margin: 0 auto;
+  width: 300px;
+  height: 100px;
+  background-color:rgba(222, 222, 240, 0.846);
+  text-align: center;
+  padding-top: 60px;
+}
+
+.ppirma {
+  font-size: 26px;
+  color: rgb(20, 10, 212);
+  font-style: bold;
+  margin: 0px;
+}
+
+.pantra {
+  font-size: 18px;
+  color: rgb(181, 64, 21);
+  margin: 0px;
+}
+
+.Ikonos {
+  padding-top: 20px;
+  margin: 0 auto;
+  width: 300px;
+  height: 100px;
+  background-color: rgba(222, 222, 240, 0.846);
+}
+
+.ikona {
+  margin-left: 10px;
+  padding: 20px;
+  width: 20px;
+  height: 20px;
+  background-color: rgb(213, 16, 190);
+  border-radius: 50px;
+  display: inline-block;
+}
+
+.paskutine {
+  margin: 0 auto;
+  width: 300px;
+  height: 120px;
+  background-color: rgba(222, 222, 240, 0.846);
+  border-radius: 0px 0px 20px 20px;
+  align-items: center;
+}
+.paskutine p {
+  text-align: center;
+  color: rgb(20, 10, 212);
+}
+p.button {
+  background-color: rgb(209, 153, 201);
+  border: none;
+  padding: 12px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 12px;
+  cursor: pointer;
+  border-radius: 50px;
+  margin-top: 20px;
+}
+/* Uždėti po nuotrauka šešėlį, pakeisti šriftą, sudėti ikonas */
